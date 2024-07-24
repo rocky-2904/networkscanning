@@ -10,4 +10,6 @@ Network scanning in cybersecurity is the process of identifying active devices, 
 4. **Vulnerability Scanning**: Detecting known vulnerabilities in the devices, services, and applications.
 5. **OS Fingerprinting**: Identifying the operating systems running on network devices.
 
-# Common tools used for network scanning include Nmap, Nessus, and OpenVAS. Effective network scanning is crucial for proactive network defense, compliance with security standards, and incident response preparation.
+# Common tools used for network scanning include Nmap, Nessus, and OpenVAS. 
+
+Effective network scanning is crucial for proactive network defense, compliance with security standards, and incident response preparation.
